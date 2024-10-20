@@ -6,6 +6,10 @@
   ## Description
   This will let the user create a database and modify employee roles and more
 
+  ## Video Walkthrough
+  https://drive.google.com/file/d/117dNHTfolvE1uKEe0vQaB525D52nYjGX/view?usp=sharing
+  
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -26,11 +30,6 @@
 
   ## Authors
   Myself
-
-  ## Video Walkthrough
-
-  https://drive.google.com/file/d/117dNHTfolvE1uKEe0vQaB525D52nYjGX/view?usp=sharing
-  
 
   ## Questions
   If you have any questions, please open an issue or contact me directly at jandgdinh@gmail.com. You can find more of my work at https://github.com/jandgdinh
